@@ -46,6 +46,17 @@
     line-height: 2.5vh;
     margin-bottom: 2em;
 }
+.pregunta_container {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+    text-align: justify;
+    font-size: 1.2em;
+    line-height: 2.5vh;
+    margin-bottom: 2em;
+    background-color: crimson;
+}
+
 .aviso_container > h2 {
     text-align: center;
     text-transform: uppercase;
@@ -55,13 +66,14 @@
     display: block;
     width: 50%;
     background-color: #F28444;
-    margin: 0 auto;
     border-radius: 15px;
     text-decoration: none;
     color: #f1f1f1;
     text-align: center;
     padding: 20px;
     font-size: 1.3em;
+    margin: 0 auto;
+    margin-top: 3em;
 }
 
 .acepto_a-screen_02 {

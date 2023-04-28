@@ -1,4 +1,20 @@
-const CLOSED_DA = () => {
+const CLOSED_DA = ({question, options}) => {
+    return(
+        <div className="pregunta_container">
+            <h2>
+                {question}
+            </h2>
+            <div>
+                <ul>
+                    {options.map( op => op)
+                    }
+                </ul>
+            </div>
+        </div>
+    )
+}
+
+const CLOSED_AD = () => {
     return(
         <div>
             <h2>
@@ -16,4 +32,4 @@ const CLOSED_DA = () => {
     )
 }
 
-ReactDOM.render(<CLOSED_DA />,document.querySelector("#app"));
+ReactDOM.render(<CLOSED_DA question={"Pregunta...?"} options={[1,2,3,4]}/>,document.querySelector("#app"));
