@@ -1,0 +1,76 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.header {
+    padding: 10px 16px;
+    height:150px;
+    line-height: 60px;
+    background: #023059;
+    color: #f1f1f1;
+    font-size:35px;
+    text-align: center;
+}
+/* Page content */
+.content {
+    padding: 16px;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+/* Add some top padding to the page content to prevent sudden quick movement */
+.sticky + .content {
+    padding-top: 102px;
+}
+.edic_logo {
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 2em;
+}
+.edic_logo-screen_02 {
+    height: 300px ;
+    margin-bottom: 4em;
+    margin-top: 12em;
+
+}
+.aviso_container {
+    margin: 0 auto;
+    width: 80%;
+    text-align: justify;
+    font-size: 1.2em;
+    line-height: 2.5vh;
+    margin-bottom: 2em;
+}
+.aviso_container > h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.acepto_a {
+    display: block;
+    width: 50%;
+    background-color: #F28444;
+    margin: 0 auto;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.3em;
+}
+
+.acepto_a-screen_02 {
+    font-size: 2em;
+}
+
+.acepto_a-return {
+    margin-top: 4em;
+    width: 30%;
+    font-size: 1.5em;
+    background-color: #25B8D9;
+}
