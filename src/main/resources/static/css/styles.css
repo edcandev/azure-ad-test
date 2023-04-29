@@ -83,16 +83,16 @@
 
 .descripcion_container {
     display: block;
-    margin: 4em auto;
+    margin: 2em auto;
     text-align: center;
     width: 90%;
 }
 
 .pregunta_container {
     display: flex;
-    margin: 4em auto;
+    margin: 0 auto;
     width: 70%;
-
+    max-width: 700px;
     flex-direction: column;
         /*font-size: 1.2em;*/
     background-color: #1882B4;
@@ -170,6 +170,17 @@ input[type=radio] {
 }
 
 .question_container {
-    height: 700px;
+    height: 600px;
     position: relative;
+}
+.pregunta-opcion-abierta {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.pregunta-opcion-abierta > input{
+    display: flex;
+    padding: 10px;
+    width: 90%;
+    font-size: 1.2em;
 }

@@ -1,4 +1,27 @@
-const QuestionComponent = ({description, type, question, questionNumber, options}) => {
+let currentQuestion = 1;
+
+const QuestionComponent = ({change, description, type, question, questionNumber, options}) => {
+
+    const { useState} = React;
+
+    const [answered, setAnswered] = useState(false);
+    const [value, setNewValue] = useState("");
+
+    function handleChange(event) {
+        let value = event.target.value;
+        setNewValue(value);
+        change(value);
+    }
+
+
+    console.log(answered);
+
+    if(answered) {
+        currentQuestion++;
+        return(<>
+            </>
+        )
+    }
 
     const mapArr = (arr) => {
         const mapping = {
@@ -12,8 +35,28 @@ const QuestionComponent = ({description, type, question, questionNumber, options
 
     const mappedArr = mapArr(options)
 
-    const defineQuestionType = (type) => {
+    const selectClosedAnswer = (e) => {
+        if(! e.target.classList.contains('selected')) {
+            document.querySelectorAll('.answer').forEach((ans) => ans.classList.remove('selected'))
+            e.target.classList.add("selected");
+        }
+    }
 
+    const selectOpenAnswer = (e) => {
+        e.target.classList.add('selected')
+    }
+
+    const goToNextQuestion  = (e) => {
+        document.querySelectorAll(".answer").forEach(answer => {
+            if(answer.classList.contains('selected')) {
+                setAnswered(true);
+                alert(answer.value)
+
+            }
+        })
+    }
+
+    const defineQuestionType = (type) => {
         switch(type) {
 
             case 'CLOSED_AD':
@@ -21,7 +64,8 @@ const QuestionComponent = ({description, type, question, questionNumber, options
                 return (mappedArr.map(opc => {
                     return (
                         <div key={opc} className="pregunta-opcion">
-                            <input id={opc} value={opc} type="radio" name="answer"/>
+                            <input className="answer" id={opc} value={opc} type="radio" name="answer" onClick={e => { selectClosedAnswer(e)
+                            }}/>
                             <label htmlFor={opc}>{opc}</label>
                         </div>
                     )
@@ -31,15 +75,16 @@ const QuestionComponent = ({description, type, question, questionNumber, options
                 return ( mappedArr.map(opc => {
                     return (
                         <div key={opc} className="pregunta-opcion">
-                            <input id={opc} value={opc} type="radio" name="answer"/>
+                            <input className="answer" id={opc} value={opc} type="radio" name="answer" onClick={e => { selectClosedAnswer(e)
+                            }}/>
                             <label htmlFor={opc}>{opc}</label>
                         </div>
                     )
                 }))
             case 'OPEN':
                 return (
-                    <div>
-                        <input type="text"/>
+                    <div className="pregunta-opcion-abierta">
+                        <input name="answer"  className="answer" type="text" onClick={ev => {selectOpenAnswer(ev)} }/>
                     </div>
                 )
         }
@@ -61,86 +106,15 @@ const QuestionComponent = ({description, type, question, questionNumber, options
                     {defineQuestionType(type)}
                 </form>
             </div>
-            <div className="siguiente_container">
+            <div className="siguiente_container" onClick={(e) => {
+                goToNextQuestion(e)
+            }
+            }>
                 Siguiente Pregunta
             </div>
         </div>
     )
 }
-/*
-const OPEN = ({description, type, question, questionNumber, options}) => {
-
-    return(
-        <div className="question_container">
-            <div className="info_container">
-                <h3>
-                    Pregunta { questionNumber }
-                </h3>
-                <img className="info_img" src="../../images/Logo.jpeg" alt=""/>
-            </div>
-            <h3 className="descripcion_container">{description}</h3>
-            <div className="pregunta_container">
-                <h2 className="pregunta_container-h2"> {question} </h2>
-                <form className="pregunta-opciones_container">
-
-                    <label htmlFor={opc}>{opc}</label>
-                    <input id={opc} value={opc} type="radio" name="answer"/>
-
-                </form>
-            </div>
-            <div className="siguiente_container">
-                Siguiente Pregunta
-            </div>
-        </div>
-    )
-
-}
-*/
-/*
-const CLOSED_AD = ({description, question, questionNumber, options}) => {
-
-    options.reverse()
-
-    const selectOption = (e) => {
-        if(! e.target.classList.contains('selected')) {
-            e.target.classList.add('selected')
-        } else {
-            e.target.classList.remove('selected')
-        }
-    }
-
-    return(
-        <div className="question_container">
-            <div className="info_container">
-                <h3>
-                    Pregunta { questionNumber }
-                </h3>
-                <img className="info_img" src="../../images/Logo.jpeg" alt=""/>
-            </div>
-            <h3 className="descripcion_container">{description}</h3>
-            <div className="pregunta_container">
-                <h2 className="pregunta_container-h2"> {question} </h2>
-                <form className="pregunta-opciones_container">
-                    {
-                        options.map(opc => {
-                            return (
-                                <div className="pregunta-opcion">
-                                    <input id={opc} value={opc} type="radio" name="answer"/>
-                                    <label htmlFor={opc}>{opc}</label>
-                                </div>
-                            )
-                        })
-                    }
-                </form>
-            </div>
-            <div className="siguiente_container">
-                Siguiente Pregunta
-            </div>
-        </div>
-    )
-}
-*/
-
 
 const sampleQuestion = "Trato de solucionar los problemas antes de que se hagan más grandes";
 
@@ -179,26 +153,62 @@ const JSONSample = {
     }
 };
 
-
-console.log(questionNumber)
+const questionNumber = JSONSample.apartado1.no_pregs;
 
 const questions = JSONSample.apartado1.preguntas;
 
+// Tipos de preguntas:
+// - CLOSED_DA
+// - CLOSED_AD
+// - OPEN
+
+
+const ParentComponent = () => {
+    let [currentQuestion, setQurrentQuestion] = useState(1);
+    function handleState(newValue) {
+        setState(currentQuestion++);
+    }
+
+
+    const refresh = () => {}
+
+    return (
+        <>
+            {
+                questions.map( q => {
+                    if(q.id == currentQuestion) {
+                        return(
+                            <QuestionComponent
+                                change = {handleState}
+                                description={ JSONSample.apartado1.instrucciones}
+                                questionNumber={ q.id}
+                                type={ q.tipo }
+                                question={ q.pregunta }
+                                options={ q.opciones } />
+                        )
+                    } else {
+                        return (<>
+                        </>)
+                    }
+                })
+            }
+
+        </>
+    )
+}
 
 ReactDOM.render(
-    <>
-        {
-            questions.map( q => {
-                return(
-                    <QuestionComponent
-                        description={ JSONSample.apartado1.instrucciones}
-                        questionNumber={ q.id}
-                        type={ q.tipo }
-                        question={ q.pregunta }
-                        options={ q.opciones } />
-                )
-            })
-        }
-
-    </>
+    <ParentComponent/>
     ,document.getElementById("app"));
+
+    /*
+    questions.map( q => {
+        return(
+            <QuestionComponent
+                description={ JSONSample.apartado1.instrucciones}
+                questionNumber={ q.id}
+                type={ "OPEN" }
+                question={ q.pregunta }
+                options={ q.opciones } />
+        )
+    })*/
