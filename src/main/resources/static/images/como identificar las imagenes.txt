@@ -1,0 +1,3 @@
+AX-RY donde:
+X= numero del apartado
+Y= numero del reactivo
