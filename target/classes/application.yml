@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    azure:
+      active-directory:
+        enabled: true
+        profile:
+          tenant-id: 2662a2bd-9c8e-4a7a-a8d3-44d6b39096ed
+        credential:
+          client-id: 3318d5f9-2105-4ea0-b9b7-aab7d0e3a0ef
+          client-secret: Q6b8Q~T9EPQeQxr4ZsrtIWrr-2HfKmP9XCtFocZL
+        authorization-clients:
+          graph:
+            scopes: https://graph.microsoft.com/.default

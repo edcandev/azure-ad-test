@@ -218,3 +218,6 @@ input[type=radio] {
 .pregunta-opcion-abierta-img > p {
     margin: 10px;
 }
+.user-title {
+    padding: 15px;
+}
