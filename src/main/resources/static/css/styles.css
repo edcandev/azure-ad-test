@@ -221,3 +221,7 @@ input[type=radio] {
 .user-title {
     padding: 15px;
 }
+
+.sample-warning {
+    color: crimson;
+}

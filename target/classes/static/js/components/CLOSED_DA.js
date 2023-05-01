@@ -1714,12 +1714,12 @@ const examJSON = {
                 "apartado": 7,
                 "id": 156,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Cuando me encomiendan trabajar en un proyecto nuevo     A) Me baso en proyectos ya establecidos     B) Intento meter algún toque original",
+                "pregunta": "Cuando me encomiendan trabajar en un proyecto nuevo",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Me baso en proyectos ya establecidos","B) Intento meter algún toque original"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B"
+                "respuestaCorrecta": "B) Intento meter algún toque original"
             }
         ]
     }
@@ -2171,7 +2171,7 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
                 return (
                     <div className="pregunta-opcion-abierta-img">
                         <img className="open-image answer selected" src={mapImages(questionNumber)}></img>
-                        <b>Esta es una pregunta de ejemplo, no afectará la ponderación total</b>
+                        <b className="sample-warning">Esta es una pregunta de ejemplo, no afectará la ponderación total</b>
                     </div>
                 )
             case 'MULTI':
