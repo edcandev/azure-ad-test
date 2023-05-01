@@ -22,7 +22,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me sucede constantemente que las personas me caen mal y no se por que.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -55,7 +55,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Para entender la postura de alguien más es necesario sentir lo que siente.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -66,7 +66,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo saber de lado caerá una moneda.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -77,7 +77,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Cuando estoy en medio de un conflicto lo vivo tan intensamente que me quedo pensando en él a pesar de que ya pasó mucho tiempo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -110,7 +110,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es difícil comunicarme con una persona de mucho dinero.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -121,7 +121,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Creo que colocarse en los zapatos de otro es absurdo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -165,7 +165,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es difícil ponerme en el punto de referencia de dos personas en una discusión, generalmente me inclino por una.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -176,7 +176,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es absurdo y una pérdida de tiempo que las personas digan varias veces lo mismo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -198,7 +198,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Vivo una historia como si estuviera presente en ella.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -209,7 +209,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "El machismo está completamente erradicado.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -253,7 +253,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "No creo poder entender a una persona que roba.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -264,7 +264,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "En un conflicto lo más importante son los hechos en sí y no como lo vivencia cada una de las partes.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -275,7 +275,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Cuando dos personas discuten me es muy incomodo y prefiero retirarme.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -286,7 +286,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo terminar agotado después de lidiar con un conflicto.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -297,7 +297,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo evitar las miradas fijas.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -308,7 +308,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Analizar los errores del pasado solo te hace perder tiempo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -352,7 +352,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es difícil saber qué decir para que las personas se tranquilicen.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -363,7 +363,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Tengo buen olfato para detectar problemas y alejarme antes que exploten.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -374,7 +374,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Ir al psicólogo es absurdo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -407,7 +407,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Si un vendedor hizo un gran esfuerzo para mostrarme un producto que no me convence del todo, es difícil para mí decirle que no.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -418,7 +418,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me identifico con personas que trabajan muy duro pero que no consiguen sus objetivos.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -440,7 +440,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Evito intentar cosas nuevas.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -451,7 +451,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelen atormentarme los errores de mi vida.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -462,7 +462,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Después de hacer algo importante y que vale la pena, trato de que los demás lo sepan.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -473,7 +473,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Si tuviera que hacer una lista de mis virtudes y defectos, la de defectos sería más larga.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -484,7 +484,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me gustaría sentir más respeto hacia mi mismo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -495,7 +495,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es difícil decir que no.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -506,7 +506,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Necesito sentir éxito al iniciar algo nuevo o no continúo haciéndolo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -517,7 +517,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Prefiero evitar platicar con personas que no conocía previamente.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -528,7 +528,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Cuando alguien me felicita, no sé qué responder.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -539,7 +539,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Si el comentario de un familiar me es molesto prefiero evitar que se de cuenta que me afectó.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -561,7 +561,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Evito herir los sentimientos de otras personas, incluso si me siento ofendido.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -605,7 +605,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Solo voy a reuniones o fiestas si conozco a alguien que también asistirá.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -616,7 +616,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Prefiero evitar hablarles a personas muy atractivas.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -627,7 +627,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me da vergüenza devolver un producto a la tienda.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -649,7 +649,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "A veces incluso pequeñas dificultades pueden llegar a preocuparme.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -660,7 +660,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Mi estado de ánimo depende de la interacción con otras personas.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -671,7 +671,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es muy molesto si me interrumpen cuando estoy trabajando.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -682,7 +682,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "La gente en general suele ser muy irritante.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -704,7 +704,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "A menudo me siento nervioso.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -715,7 +715,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Mi humor pasa por altibajos frecuentes.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -726,7 +726,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Creo que los plazos fijos son innecesarios.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -737,7 +737,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "No soporto que alguien me contradiga.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -748,7 +748,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo sufrir de dolor de cabeza o insomnio a causa de mi trabajo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -792,7 +792,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me suele ser difícil elegir entre varias opciones.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -803,7 +803,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo experimentar varios estados de ánimo en un solo día.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -825,7 +825,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo sentirme al límite.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -836,7 +836,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me desanimo con facilidad.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -858,7 +858,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo comer cuando siento preocupación.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -869,7 +869,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me preocupa que mi trabajo me esté endureciendo emocionalmente.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -880,7 +880,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Mi día se arruina cuando algo no ocurre como yo quiero.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -891,7 +891,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me define la palabra impaciente.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -924,7 +924,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me paralizo en situaciones de peligro.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -946,7 +946,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo decir que si llego a las reuniones, pero al final no llegó o canceló de último momento.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -968,7 +968,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es difícil cortar la plática cuando ya me tengo que ir.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -979,7 +979,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es penoso cobrar el dinero que me deben.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -990,7 +990,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Prefiero hablar poco o seguir la corriente cuando desconozco de un tema.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1023,7 +1023,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Creo que hablar de sentimientos es una pérdida de tiempo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1034,7 +1034,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Son inútiles y desagradables las críticas constructivas.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1045,7 +1045,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es difícil demostrar cariño y agradecimiento.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1067,7 +1067,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Creo que la gente se aprovecha de mí con frecuencia",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1078,7 +1078,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Cuando platico omito los detalles que no me son convenientes.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1089,7 +1089,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me apena expresar mis dudas o preguntas a figuras de autoridad.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1100,7 +1100,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es complicado negarme a prestar dinero.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1111,7 +1111,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Si pienso que algún comentario mío ha ofendido a alguien, optó por cambiar el tema o retirarme.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1122,7 +1122,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo decir que estoy de acuerdo solo por no discutir.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1144,7 +1144,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es muy complicado decirle a mi jefe que no tiene la razón.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1155,7 +1155,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "No tengo ningún miedo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1177,7 +1177,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Prefiero tratar los problemas o desacuerdos cuando son muchos que de a poco.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1199,7 +1199,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me disgusta que me corrijan.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1210,7 +1210,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es difícil pedir que me aclaren un tema cuando no estoy entendiendo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1221,7 +1221,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es difícil pedir disculpas.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1276,7 +1276,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Si las personas no pueden o no quieren hacer algo, pues ni modo, es su problema.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1287,7 +1287,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es muy difícil admitir cuando me he equivocado.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1309,7 +1309,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Si das tienes que recibir lo mismo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1320,7 +1320,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Suelo pensar que las demás personas no me entienden.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1331,7 +1331,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Colocarse en los zapatos de otros es imposible.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1353,7 +1353,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Le doy la razón a las demás personas con tal de no discutir.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1375,7 +1375,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Creo que todo tiene un orden en esta vida, y todos debemos seguirlo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1386,7 +1386,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Es imposible encontrar soluciones que satisfagan a todos.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1408,7 +1408,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Las cosas son como son y a quién no le guste ni modo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1419,7 +1419,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Me es incómodo intervenir cuando existe un desacuerdo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -1460,8 +1460,8 @@ const examJSON = {
             {
                 "apartado": 6,
                 "id": 133,
-                "descripcion": "En este apartado encontrarás algunas preguntas con imágenes, observa el siguiente ejemplo: Coloca en orden la siguiente secuencia de imágenes. ",
-                "pregunta": "(CADENA DE LETRAS MAYÚSCULAS SIN ESPACIOS) RESPUESTA: CBA",
+                "descripcion": "En este apartado encontrarás algunas preguntas con imágenes, observa el siguiente ejemplo:",
+                "pregunta": "(LETRAS MAYÚSCULAS SIN ESPACIOS) RESPUESTA: CBA",
                 "imageUrl": "images/A6-R0.png",
                 "tipo": "SAMPLE",
                 "opciones": "",
@@ -1626,12 +1626,12 @@ const examJSON = {
                 "apartado": 7,
                 "id": 148,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Mi conocimiento es más limitado a ciertas áreas, trato de estar enfocado siempre.      A) Verdadero      B) Falso",
+                "pregunta": "Mi conocimiento es más limitado a ciertas áreas, trato de estar enfocado siempre...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Verdadero","B) Falso"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B"
+                "respuestaCorrecta": "B) Falso"
             },
             {
                 "apartado": 7,
