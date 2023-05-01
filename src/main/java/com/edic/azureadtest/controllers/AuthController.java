@@ -23,13 +23,6 @@ import java.util.Objects;
 @CrossOrigin("*")
 public class AuthController {
 
-
-    @RequestMapping("/azuread/")
-    void handleFoo(HttpServletResponse response) throws IOException {
-        response.sendRedirect("/Admin");
-    }
-
-
     @GetMapping("/azuread")
     @ResponseBody
     @PreAuthorize("isAuthenticated()")
@@ -39,9 +32,6 @@ public class AuthController {
 
         //System.out.println(graphClient.getAccessToken().getTokenValue());
         System.out.println(authentication.getPrincipal());
-
-
-
         response.sendRedirect("/exam/home");
     }
 }

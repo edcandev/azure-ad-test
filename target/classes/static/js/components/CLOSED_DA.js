@@ -1,5 +1,4 @@
 const userAnswers = { "answers": [] };
-/*
 
 const examJSON = {
     "examen": {
@@ -1725,49 +1724,270 @@ const examJSON = {
         ]
     }
 }
-*/
+
+
+
+/*
 const examJSON = {
-    "examen": {
-        "acumulador": 0,
-        "no_pregs": 156,
-        "preguntas": [
-            {
-                "apartado": 1,
-                "id": 1,
-                "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Trato de solucionar los problemas antes de que se hagan más grandes.",
-                "imageUrl": "",
-                "tipo": "CLOSED_DA",
-                "opciones": [1, 2, 3, 4],
-                "respuestaUsuario": "",
-                "respuestaCorrecta": ""
-            },
-            {
-                "apartado": 1,
-                "id": 2,
-                "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Me sucede constantemente que las personas me caen mal y no se por que.",
-                "imageUrl": "",
-                "tipo": "CLOSED_AD",
-                "opciones": [1, 2, 3, 4],
-                "respuestaUsuario": "",
-                "respuestaCorrecta": ""
-            },
-            {
-                "apartado": 1,
-                "id": 3,
-                "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Para entender la postura de alguien más es necesario analizar.",
-                "imageUrl": "",
-                "tipo": "CLOSED_DA",
-                "opciones": [1, 2, 3, 4],
-                "respuestaUsuario": "",
-                "respuestaCorrecta": ""
-            }
-        ]
+    examen: {
+        preguntas: [
+        {
+            "apartado": 6,
+            "id": 134,
+            "descripcion": "Selecciona la categoría de palabras a la que corresponde la siguiente lista.",
+            "pregunta": "Tú - Él - Ella - Ustedes - Nosotras ",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["Adjetivos calificativos","Sustantivos","Pronombres","Preposiciones","Adverbios"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "Pronombres"
+        },
+        {
+            "apartado": 6,
+            "id": 135,
+            "descripcion": "Selecciona la categoría de palabras a la que corresponde la siguiente lista.",
+            "pregunta": "Rojo - Azul - Verde - Morado - Amarillo ",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["Colores","Medios de transporte","Dias de la semana","Animales","Deportes"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "Colores"
+        },
+        {
+            "apartado": 6,
+            "id": 136,
+            "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
+            "pregunta": "(CADENA DE LETRAS MAYÚSCULAS SIN ESPACIOS)",
+            "imageUrl": "images/A6-R3.png",
+            "tipo": "OPEN",
+            "opciones": [],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "EBFDACG"
+        },
+        {
+            "apartado": 6,
+            "id": 137,
+            "descripcion": "Selecciona la categoría de palabras a la que corresponde la siguiente lista.",
+            "pregunta": "Juan - Puerta - Comedor - Rocío - Coche ",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["Adjetivos calificativos","Sustantivos","Pronombres","Preposiciones","Adverbios"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "Sustantivos"
+        },
+        {
+            "apartado": 6,
+            "id": 138,
+            "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
+            "pregunta": "(CADENA DE LETAS MAYÚSCULAS SIN ESPACIOS)",
+            "imageUrl": "images/A6-R5.png",
+            "tipo": "OPEN",
+            "opciones": [],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "ECDAB"
+        },
+        {
+            "apartado": 6,
+            "id": 139,
+            "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
+            "pregunta": "(CADENA DE LETAS MAYÚSCULAS SIN ESPACIOS)",
+            "imageUrl": "images/A6-R6.png",
+            "tipo": "OPEN",
+            "opciones": [],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "BAFECD"
+        },
+        {
+            "apartado": 6,
+            "id": 140,
+            "descripcion": "Coloca la letra que complete la siguiente secuencia. Da click en el recuadro blanco para empezar a escribir",
+            "pregunta": "C, L, L, Q, C, L, S, _.",
+            "imageUrl": "",
+            "tipo": "OPEN",
+            "opciones": [],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "S"
+        },
+        {
+            "apartado": 6,
+            "id": 141,
+            "descripcion": "Selecciona la categoría de palabras a la que corresponde la siguiente lista.",
+            "pregunta": "Rojo - Grande - Dulce - Raro - Barato ",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["Adjetivos calificativos","Sustantivos","Pronombres","Preposiciones","Adverbios"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "Adjettivos calificativos"
+        },
+        {
+            "apartado": 6,
+            "id": 142,
+            "descripcion": "Coloca el número que completen las siguientes secuencias numéricas. Da click en el recuadro blanco para empezar a escribir",
+            "pregunta": "76, 56, 78, 44, 33 77, 56, 71, 42, 33 75, 57, 77, 41, 33  _5, 56, 79, 44, 39 ",
+            "imageUrl": "",
+            "tipo": "OPEN",
+            "opciones": [],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": 7
+        },
+        {
+            "apartado": 6,
+            "id": 143,
+            "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
+            "pregunta": "(CADENA DE LETAS MAYÚSCULAS SIN ESPACIOS)",
+            "imageUrl": "images/A6-R10.png",
+            "tipo": "OPEN",
+            "opciones": [],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "BA"
+        },
+        {
+            "apartado": 6,
+            "id": 144,
+            "descripcion": "Escribe los números que completen las siguientes secuencias numéricas. Da click en el recuadro blanco para empezar a escribir",
+            "pregunta": "65, 58, __, 47, 43, 40, 38 ",
+            "imageUrl": "",
+            "tipo": "OPEN",
+            "opciones": [],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": 52
+        },
+        {
+            "apartado": 7,
+            "id": 145,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Para mi arreglo diario   A) Opto por algo más cotidiano      B) Trato de romper los estándares",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "B"
+        },
+        {
+            "apartado": 7,
+            "id": 146,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Los convencionalismos      A) Me aburren      B) Orientan y tranquilizan",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "A"
+        },
+        {
+            "apartado": 7,
+            "id": 147,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Si estás leyendo una noticia en una página de internet, y el siguiente fragmento no carga      A) Esperas a que cargue y si no lo hace sigues con tus demás pendientes      B) Buscas en otra página la información que te falto por leer",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "B"
+        },
+        {
+            "apartado": 7,
+            "id": 148,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Mi conocimiento es más limitado a ciertas áreas, trato de estar enfocado siempre.      A) Verdadero      B) Falso",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "B"
+        },
+        {
+            "apartado": 7,
+            "id": 149,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Cuando tengo que resolver un problema      A) Opto por la opción habitual      B) Propongo alguna alternativa distinta",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "B"
+        },
+        {
+            "apartado": 7,
+            "id": 150,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "El conocimiento que adquieres en un área es imposible se pueda aplicar a otra      A) Falso      B) Verdadero",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "A"
+        },
+        {
+            "apartado": 7,
+            "id": 151,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Si alguien me plantea un proyecto o negocio nuevo      A) Se me ocurren muchas ideas al respecto      B) Realizó un análisis exhaustivo al respecto",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "A"
+        },
+        {
+            "apartado": 7,
+            "id": 152,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Yo creo que cuando invitas a alguien a salir      A) La opción habitual es la mejor opción      B) Ser diferentes es la mejor opción",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "B"
+        },
+        {
+            "apartado": 7,
+            "id": 153,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Las cosas deben hacerse      A) Según lo establecido      B) Adaptándose a cada caso",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "B"
+        },
+        {
+            "apartado": 7,
+            "id": 154,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Para mi oficina o lugar de trabajo yo prefiero      A) Optar por lo habitual      B) Que refleje mi personalidad",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "B"
+        },
+        {
+            "apartado": 7,
+            "id": 155,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "“El que no arriesga no gana”     A) Verdadero     B) Falso",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "A"
+        },
+        {
+            "apartado": 7,
+            "id": 156,
+            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
+            "pregunta": "Cuando me encomiendan trabajar en un proyecto nuevo     A) Me baso en proyectos ya establecidos     B) Intento meter algún toque original",
+            "imageUrl": "",
+            "tipo": "MULTI",
+            "opciones": ["A","B"],
+            "respuestaUsuario": "",
+            "respuestaCorrecta": "B"
+        }
+    ]
     }
 }
-
+*/
 const FinalComponent = () => {
 
     const { useState } = React;
@@ -1812,8 +2032,7 @@ const FinalComponent = () => {
     )
 }
 
-const QuestionComponent = ({change, description, type, question, questionNumber, options, section}) =>
-{
+const QuestionComponent = ({change, description, type, question, questionNumber, options, section, correctAnswer}) => {
     const { useState} = React;
 
     const [answered, setAnswered] = useState(false);
@@ -1875,7 +2094,7 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
 
     const selectOpenAnswer = (e) => {
         e.target.classList.add('selected')
-        setAnswered(true);
+        // setAnswered(true);
     }
 
     const goToNextQuestion  = (e) => {
@@ -1891,7 +2110,8 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
                         {
                             "question": questionNumber,
                             "section": section,
-                            "answer": answer.value
+                            "answer": answer.value,
+                            "correctAnswer": correctAnswer.toString()
                         }
                     )
                 }
@@ -2016,6 +2236,7 @@ const ParentComponent = () => {
                 question={ q.pregunta }
                 options={ q.opciones }
                 section={ q.apartado }
+                correctAnswer= { q.respuestaCorrecta}
             />
         )})
 
@@ -2038,41 +2259,6 @@ const ParentComponent = () => {
 //const sampleQuestion = "Trato de solucionar los problemas antes de que se hagan más grandes";
 //const opciones = ['Totalmente Desacuerdo','Desacuerdo','Deacuerdo','Totalmente Deacuerdo'];
 
-const JSONSample = {
-    "apartado1": {
-        "acumulador": 0,
-        "no_pregs": 36,
-        "instrucciones": "Estas son las instrucciones, de la sección 1",
-        "preguntas": [
-            {
-                "tipo": "CLOSED_AD",
-                "pregunta": "Si un vendedor hizo un gran esfuerzo para mostrarme un producto que no me convence del todo, es difícil para mí decirle que no.",
-                "opciones": [1, 2, 3, 4],
-                "id": 1,
-                "respuestaUsuario": " ",
-                "respuestaCorrecta:": " ",
-                "section":"Apartado 1"
-            },
-            {
-                "tipo": "CLOSED_AD",
-                "pregunta": "Me identifico con personas que trabajan muy duro pero que no consiguen sus objetivos.",
-                "opciones": [1, 2, 3, 4],
-                "id": 2,
-                "respuestaUsuario": " ",
-                "respuestaCorrecta:": " ",
-                "section":"Apartado 1"
-            },
-            {
-                "tipo": "CLOSED_DA",
-                "pregunta": "Prefiero presentar una solicitud por escrito para contratarme o inscribirme que pasar por una entrevista.",
-                "opciones": [1, 2, 3, 4],
-                "id": 3,
-                "respuestaUsuario": " ",
-                "respuestaCorrecta:": " ",
-                "section":"Apartado 1"
-            }]
-    }
-};
 
 const questions = examJSON.examen.preguntas;
 

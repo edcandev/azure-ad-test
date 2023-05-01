@@ -11,12 +11,20 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import javax.print.attribute.standard.Media;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
 
 
 @Controller
 public class AppController {
 
-    @RequestMapping("/exam/home")
+    @RequestMapping(value = "/", method = RequestMethod.GET)
+    public void helloWorld(HttpServletResponse response) throws IOException {
+        response.sendRedirect("/auth/azuread");
+    }
+
+
+        @RequestMapping("/exam/home")
     public String helloWorl(Model model, Authentication authentication) {
         // System.out.println(authentication.getPrincipal());
         DefaultOidcUser user = (DefaultOidcUser) authentication.getPrincipal();
