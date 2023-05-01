@@ -1560,8 +1560,8 @@ const examJSON = {
                 "apartado": 6,
                 "id": 142,
                 "descripcion": "Coloca el número que completen las siguientes secuencias numéricas. Da click en el recuadro blanco para empezar a escribir",
-                "pregunta": "76, 56, 78, 44, 33 77, 56, 71, 42, 33 75, 57, 77, 41, 33  _5, 56, 79, 44, 39 ",
-                "imageUrl": "",
+                "pregunta": "",
+                "imageUrl": "images/A6-R6.png",
                 "tipo": "OPEN",
                 "opciones": [],
                 "respuestaUsuario": "",
@@ -1593,34 +1593,34 @@ const examJSON = {
                 "apartado": 7,
                 "id": 145,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Para mi arreglo diario   A) Opto por algo más cotidiano      B) Trato de romper los estándares",
+                "pregunta": "Para mi arreglo diario...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Opto por algo más cotidiano","B) Trato de romper los estándares"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B"
+                "respuestaCorrecta": "B) Trato de romper los estándares"
             },
             {
                 "apartado": 7,
                 "id": 146,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Los convencionalismos      A) Me aburren      B) Orientan y tranquilizan",
+                "pregunta": "Los convencionalismos...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Me aburren","B) Orientan y tranquilizan"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "A"
+                "respuestaCorrecta": "A) Me aburren"
             },
             {
                 "apartado": 7,
                 "id": 147,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Si estás leyendo una noticia en una página de internet, y el siguiente fragmento no carga      A) Esperas a que cargue y si no lo hace sigues con tus demás pendientes      B) Buscas en otra página la información que te falto por leer",
+                "pregunta": "Si estás leyendo una noticia en una página de internet, y el siguiente fragmento no carga...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Esperas a que cargue y si no lo hace sigues con tus demás pendientes","B) Buscas en otra página la información que te falto por leer"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B"
+                "respuestaCorrecta": "B) Buscas en otra página la información que te falto por leer"
             },
             {
                 "apartado": 7,
@@ -1637,78 +1637,78 @@ const examJSON = {
                 "apartado": 7,
                 "id": 149,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Cuando tengo que resolver un problema      A) Opto por la opción habitual      B) Propongo alguna alternativa distinta",
+                "pregunta": "Cuando tengo que resolver un problema...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Opto por la opción habitual","B) Propongo alguna alternativa distinta"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B"
+                "respuestaCorrecta": "B) Propongo alguna alternativa distinta"
             },
             {
                 "apartado": 7,
                 "id": 150,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "El conocimiento que adquieres en un área es imposible se pueda aplicar a otra      A) Falso      B) Verdadero",
+                "pregunta": "El conocimiento que adquieres en un área es imposible se pueda aplicar a otra...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Falso","B) Verdadero"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "A"
+                "respuestaCorrecta": "B) Verdadero"
             },
             {
                 "apartado": 7,
                 "id": 151,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Si alguien me plantea un proyecto o negocio nuevo      A) Se me ocurren muchas ideas al respecto      B) Realizó un análisis exhaustivo al respecto",
+                "pregunta": "Si alguien me plantea un proyecto o negocio nuevo",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Se me ocurren muchas ideas al respecto","B) Realizó un análisis exhaustivo al respecto"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "A"
+                "respuestaCorrecta": "A) Se me ocurren muchas ideas al respecto"
             },
             {
                 "apartado": 7,
                 "id": 152,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Yo creo que cuando invitas a alguien a salir      A) La opción habitual es la mejor opción      B) Ser diferentes es la mejor opción",
+                "pregunta": "Yo creo que cuando invitas a alguien a salir...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) La opción habitual es la mejor opción","B) Ser diferentes es la mejor opción"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B"
+                "respuestaCorrecta": "B) Ser diferentes es la mejor opción"
             },
             {
                 "apartado": 7,
                 "id": 153,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Las cosas deben hacerse      A) Según lo establecido      B) Adaptándose a cada caso",
+                "pregunta": "Las cosas deben hacerse...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Según lo establecido","B) Adaptándose a cada caso"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B"
+                "respuestaCorrecta": "B) Adaptándose a cada caso"
             },
             {
                 "apartado": 7,
                 "id": 154,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Para mi oficina o lugar de trabajo yo prefiero      A) Optar por lo habitual      B) Que refleje mi personalidad",
+                "pregunta": "Para mi oficina o lugar de trabajo yo prefiero...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Optar por lo habitual","B) Que refleje mi personalidad"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B"
+                "respuestaCorrecta": "B) Que refleje mi personalidad"
             },
             {
                 "apartado": 7,
                 "id": 155,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "“El que no arriesga no gana”     A) Verdadero     B) Falso",
+                "pregunta": "“El que no arriesga no gana”...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A","B"],
+                "opciones": ["A) Verdadero","B) Falso"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "A"
+                "respuestaCorrecta": "A) Verdadero"
             },
             {
                 "apartado": 7,
@@ -1724,7 +1724,6 @@ const examJSON = {
         ]
     }
 }
-
 
 
 /*
@@ -2052,7 +2051,7 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
             1: "Totalmente en desacuerdo",
             2: "Desacuerdo",
             3: "De acuerdo",
-            4: "Completamente De acuerdo"
+            4: "Totalmente de acuerdo"
         }
         return options.map(e => mapping[e]);
     }
@@ -2074,6 +2073,7 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
             136: "../../images/A6-R3.png",
             138: "../../images/A6-R5.png",
             139: "../../images/A6-R6.png",
+            142: "../../images/A6-R9.png",
             143: "../../images/A6-R10.png"
         }
         if(mapping.hasOwnProperty(id)) {
@@ -2247,7 +2247,9 @@ const ParentComponent = () => {
             {
                 questionComponents[currentQuestion] != null ? questionComponents[currentQuestion] : <FinalComponent/>
                 /*
-                                                questionComponents[132]
+
+                                questionComponents[148]
+
                 questionComponents.map(question => {
                     return question
                 })
