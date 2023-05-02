@@ -20,7 +20,11 @@ const examJSON = {
                 "apartado": 1,
                 "id": 2,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
+<<<<<<< HEAD
                 "pregunta": "Me sucede constantemente que las personas me caen mal y no se por qué.",
+=======
+                "pregunta": "Me sucede constantemente que las personas me caen mal y no sé por qué",
+>>>>>>> b9414d7fcd9c6ea419a1ec2e012dcde505c20f95
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -53,7 +57,7 @@ const examJSON = {
                 "apartado": 1,
                 "id": 5,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Para entender la postura de alguien más es necesario sentir lo que siente.",
+                "pregunta": "Para entender la postura de alguien más, es necesario sentir lo que siente.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -152,7 +156,7 @@ const examJSON = {
                 "apartado": 1,
                 "id": 14,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Un conflicto no termina al darse la mano, también hay que pensar en que sucederá después.",
+                "pregunta": "Un conflicto no termina al darse la mano, también hay que pensar en qué sucederá después.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -273,7 +277,7 @@ const examJSON = {
                 "apartado": 1,
                 "id": 25,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Cuando dos personas discuten me es muy incomodo y prefiero retirarme.",
+                "pregunta": "Cuando dos personas discuten me es muy incómodo y prefiero retirarme.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -339,7 +343,7 @@ const examJSON = {
                 "apartado": 1,
                 "id": 31,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Cuando leo o veo alguna película suelo saber lo que va a pasar.",
+                "pregunta": "Cuando leo o veo alguna película, suelo saber lo que va a pasar.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -416,7 +420,7 @@ const examJSON = {
                 "apartado": 2,
                 "id": 38,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Me identifico con personas que trabajan muy duro pero que no consiguen sus objetivos.",
+                "pregunta": "Me identifico con personas que trabajan muy duro, pero que no consiguen sus objetivos.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -460,7 +464,7 @@ const examJSON = {
                 "apartado": 2,
                 "id": 42,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Después de hacer algo importante y que vale la pena, trato de que los demás lo sepan.",
+                "pregunta": "Después de hacer algo importante, trato de que los demás lo sepan.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -482,7 +486,7 @@ const examJSON = {
                 "apartado": 2,
                 "id": 44,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Me gustaría sentir más respeto hacia mi mismo.",
+                "pregunta": "Me gustaría sentir más respeto hacia mí mismo.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -537,7 +541,7 @@ const examJSON = {
                 "apartado": 2,
                 "id": 49,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Si el comentario de un familiar me es molesto prefiero evitar que se de cuenta que me afectó.",
+                "pregunta": "Si el comentario de un familiar me es molesto prefiero evitar que se dé cuenta que me afectó.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -548,7 +552,7 @@ const examJSON = {
                 "apartado": 2,
                 "id": 50,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Se que la vida no es sencilla pero siempre encuentro la forma de alcanzar mis metas.",
+                "pregunta": "Sé que la vida no es sencilla pero siempre encuentro la forma de alcanzar mis metas.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -845,7 +849,7 @@ const examJSON = {
                 "apartado": 3,
                 "id": 77,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Se perfectamente que actividades me tranquilizan y me ayudan a retomar la calma.",
+                "pregunta": "Sé perfectamente qué actividades me tranquilizan y me ayudan a retomar la calma.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -944,7 +948,7 @@ const examJSON = {
                 "apartado": 4,
                 "id": 86,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Suelo decir que si llego a las reuniones, pero al final no llegó o canceló de último momento.",
+                "pregunta": "Suelo decir que sí llego a las reuniones, pero al final no llego o cancelo de último momento.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -1076,7 +1080,7 @@ const examJSON = {
                 "apartado": 4,
                 "id": 98,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Cuando platico omito los detalles que no me son convenientes.",
+                "pregunta": "Cuando platico, omito los detalles que no me son convenientes.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -1109,7 +1113,7 @@ const examJSON = {
                 "apartado": 4,
                 "id": 101,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Si pienso que algún comentario mío ha ofendido a alguien, optó por cambiar el tema o retirarme.",
+                "pregunta": " Si pienso que algún comentario mío ha ofendido a alguien, opto por cambiar el tema o retirarme. ",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -1241,7 +1245,7 @@ const examJSON = {
                 "apartado": 4,
                 "id": 113,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Si alguien habla mal de mi sin razón le busco para aclarar el tema",
+                "pregunta": "Si alguien habla mal de mí sin razón, le busco para aclarar el tema.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -1406,7 +1410,7 @@ const examJSON = {
                 "apartado": 5,
                 "id": 128,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Las cosas son como son y a quién no le guste ni modo.",
+                "pregunta": "Las cosas son como son y a quien no le guste ni modo.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -1450,7 +1454,7 @@ const examJSON = {
                 "apartado": 5,
                 "id": 132,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Intentó negociar ante situaciones de conflicto.",
+                "pregunta": "Intento negociar ante situaciones de conflicto.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -1460,8 +1464,8 @@ const examJSON = {
             {
                 "apartado": 6,
                 "id": 133,
-                "descripcion": "En este apartado encontrarás algunas preguntas con imágenes, observa el siguiente ejemplo:",
-                "pregunta": "(LETRAS MAYÚSCULAS SIN ESPACIOS) RESPUESTA: CBA",
+                "descripcion": "En este apartado encontrarás algunas preguntas con imágenes, observa el siguiente ejemplo: Coloca en orden la siguiente secuencia de imágenes. ",
+                "pregunta": "(LETRAS MAYÚSCULAS SIN ESPACIOS) EJEMPLO DE RESPUESTA: CBA",
                 "imageUrl": "images/A6-R0.png",
                 "tipo": "SAMPLE",
                 "opciones": "",
@@ -1516,7 +1520,7 @@ const examJSON = {
                 "apartado": 6,
                 "id": 138,
                 "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
-                "pregunta": "(CADENA DE LETAS MAYÚSCULAS SIN ESPACIOS)",
+                "pregunta": "(CADENA DE LETRAS MAYÚSCULAS SIN ESPACIOS)",
                 "imageUrl": "images/A6-R5.png",
                 "tipo": "OPEN",
                 "opciones": [],
@@ -1527,7 +1531,7 @@ const examJSON = {
                 "apartado": 6,
                 "id": 139,
                 "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
-                "pregunta": "(CADENA DE LETAS MAYÚSCULAS SIN ESPACIOS)",
+                "pregunta": "(CADENA DE LETRAS MAYÚSCULAS SIN ESPACIOS)",
                 "imageUrl": "images/A6-R6.png",
                 "tipo": "OPEN",
                 "opciones": [],
@@ -1560,8 +1564,8 @@ const examJSON = {
                 "apartado": 6,
                 "id": 142,
                 "descripcion": "Coloca el número que completen las siguientes secuencias numéricas. Da click en el recuadro blanco para empezar a escribir",
-                "pregunta": "",
-                "imageUrl": "images/A6-R6.png",
+                "pregunta": "76, 56, 78, 44, 33 77, 56, 71, 42, 33 75, 57, 77, 41, 33  _5, 56, 79, 44, 39 ",
+                "imageUrl": "",
                 "tipo": "OPEN",
                 "opciones": [],
                 "respuestaUsuario": "",
@@ -1571,7 +1575,7 @@ const examJSON = {
                 "apartado": 6,
                 "id": 143,
                 "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
-                "pregunta": "(CADENA DE LETAS MAYÚSCULAS SIN ESPACIOS)",
+                "pregunta": "(CADENA DE LETRAS MAYÚSCULAS SIN ESPACIOS)",
                 "imageUrl": "images/A6-R10.png",
                 "tipo": "OPEN",
                 "opciones": [],
@@ -1593,7 +1597,7 @@ const examJSON = {
                 "apartado": 7,
                 "id": 145,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Para mi arreglo diario...",
+                "pregunta": "Para mi arreglo diario",
                 "imageUrl": "",
                 "tipo": "MULTI",
                 "opciones": ["A) Opto por algo más cotidiano","B) Trato de romper los estándares"],
@@ -1604,7 +1608,7 @@ const examJSON = {
                 "apartado": 7,
                 "id": 146,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Los convencionalismos...",
+                "pregunta": "Los convencionalismos",
                 "imageUrl": "",
                 "tipo": "MULTI",
                 "opciones": ["A) Me aburren","B) Orientan y tranquilizan"],
@@ -1615,7 +1619,7 @@ const examJSON = {
                 "apartado": 7,
                 "id": 147,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Si estás leyendo una noticia en una página de internet, y el siguiente fragmento no carga...",
+                "pregunta": "Si estás leyendo una noticia en una página de internet, y el siguiente fragmento no carga           ",
                 "imageUrl": "",
                 "tipo": "MULTI",
                 "opciones": ["A) Esperas a que cargue y si no lo hace sigues con tus demás pendientes","B) Buscas en otra página la información que te falto por leer"],
@@ -1626,18 +1630,18 @@ const examJSON = {
                 "apartado": 7,
                 "id": 148,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Mi conocimiento es más limitado a ciertas áreas, trato de estar enfocado siempre...",
+                "pregunta": "Mi conocimiento es más limitado a ciertas áreas, trato de estar enfocado siempre.",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A) Verdadero","B) Falso"],
+                "opciones": ["A) Falso","B) Verdadero"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B) Falso"
+                "respuestaCorrecta": "A) Falso"
             },
             {
                 "apartado": 7,
                 "id": 149,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Cuando tengo que resolver un problema...",
+                "pregunta": "Cuando tengo que resolver un problema",
                 "imageUrl": "",
                 "tipo": "MULTI",
                 "opciones": ["A) Opto por la opción habitual","B) Propongo alguna alternativa distinta"],
@@ -1648,12 +1652,12 @@ const examJSON = {
                 "apartado": 7,
                 "id": 150,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "El conocimiento que adquieres en un área es imposible se pueda aplicar a otra...",
+                "pregunta": "El conocimiento que adquieres en un área es imposible se pueda aplicar a otra",
                 "imageUrl": "",
                 "tipo": "MULTI",
                 "opciones": ["A) Falso","B) Verdadero"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B) Verdadero"
+                "respuestaCorrecta": "A) Falso"
             },
             {
                 "apartado": 7,
@@ -1670,7 +1674,7 @@ const examJSON = {
                 "apartado": 7,
                 "id": 152,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Yo creo que cuando invitas a alguien a salir...",
+                "pregunta": "Yo creo que cuando invitas a alguien a salir",
                 "imageUrl": "",
                 "tipo": "MULTI",
                 "opciones": ["A) La opción habitual es la mejor opción","B) Ser diferentes es la mejor opción"],
@@ -1681,7 +1685,7 @@ const examJSON = {
                 "apartado": 7,
                 "id": 153,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Las cosas deben hacerse...",
+                "pregunta": "Las cosas deben hacerse",
                 "imageUrl": "",
                 "tipo": "MULTI",
                 "opciones": ["A) Según lo establecido","B) Adaptándose a cada caso"],
@@ -1692,23 +1696,23 @@ const examJSON = {
                 "apartado": 7,
                 "id": 154,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "Para mi oficina o lugar de trabajo yo prefiero...",
+                "pregunta": "Para mi oficina o lugar de trabajo yo prefiero",
                 "imageUrl": "",
                 "tipo": "MULTI",
                 "opciones": ["A) Optar por lo habitual","B) Que refleje mi personalidad"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B) Que refleje mi personalidad"
+                "respuestaCorrecta": "B"
             },
             {
                 "apartado": 7,
                 "id": 155,
                 "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-                "pregunta": "“El que no arriesga no gana”...",
+                "pregunta": "“El que no arriesga no gana”",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A) Falso ","B) Verdadero"],
+                "opciones": ["A) Falso","B) Verdadero"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "B) Verdadero"
+                "respuestaCorrecta": "A) Falso"
             },
             {
                 "apartado": 7,
@@ -2007,9 +2011,13 @@ const FinalComponent = () => {
             },
             body: JSON.stringify(userAnswers)
         };
+<<<<<<< HEAD
         fetch( "https://edicmexicoappback.azurewebsites.net/post/answers", requestOptions)
+=======
+        fetch('https://edicmexicoappback.azurewebsites.net/post/answers', requestOptions)
+>>>>>>> b9414d7fcd9c6ea419a1ec2e012dcde505c20f95
             .then(response => response.json())
-            .then(data => console.log() );
+            .then(data => console.log(data) );
 
         alert("¡Las respuestas han sido enviadas!")
         alert("Puede cerrar esta pestaña...")
@@ -2104,6 +2112,10 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
             if(answer.classList.contains('selected')) {
                 setAnswered(true);
                 answer.checked = false;
+<<<<<<< HEAD
+=======
+                
+>>>>>>> b9414d7fcd9c6ea419a1ec2e012dcde505c20f95
 
                 if(answer.value != null) {
                     userAnswers.answers.push(
@@ -2267,7 +2279,7 @@ const questions = examJSON.examen.preguntas;
 
 // Tipos de preguntas:
 // - CLOSED_DA
-// - CLOSED_AD
+// - CLOSED_DA
 // - OPEN
 
 let startedQuestion = 1;
