@@ -20,11 +20,7 @@ const examJSON = {
                 "apartado": 1,
                 "id": 2,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-<<<<<<< HEAD
                 "pregunta": "Me sucede constantemente que las personas me caen mal y no se por qué.",
-=======
-                "pregunta": "Me sucede constantemente que las personas me caen mal y no sé por qué",
->>>>>>> b9414d7fcd9c6ea419a1ec2e012dcde505c20f95
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -2011,11 +2007,7 @@ const FinalComponent = () => {
             },
             body: JSON.stringify(userAnswers)
         };
-<<<<<<< HEAD
-        fetch( "https://edicmexicoappback.azurewebsites.net/post/answers", requestOptions)
-=======
         fetch('https://edicmexicoappback.azurewebsites.net/post/answers', requestOptions)
->>>>>>> b9414d7fcd9c6ea419a1ec2e012dcde505c20f95
             .then(response => response.json())
             .then(data => console.log(data) );
 
@@ -2112,10 +2104,6 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
             if(answer.classList.contains('selected')) {
                 setAnswered(true);
                 answer.checked = false;
-<<<<<<< HEAD
-=======
-                
->>>>>>> b9414d7fcd9c6ea419a1ec2e012dcde505c20f95
 
                 if(answer.value != null) {
                     userAnswers.answers.push(

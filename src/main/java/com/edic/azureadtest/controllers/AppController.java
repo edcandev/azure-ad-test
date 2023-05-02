@@ -20,10 +20,10 @@ import java.io.IOException;
 
 public class AppController {
 
-    @RequestMapping(value = "/", method = RequestMethod.GET)
+    /*@RequestMapping(value = "/", method = RequestMethod.GET)
     public void helloWorld(HttpServletResponse response) throws IOException {
         response.sendRedirect("/auth/azuread");
-    }
+    }*/
 
     @RequestMapping("/exam/home")
     public String examHome(Model model, Authentication authentication) {
@@ -38,7 +38,8 @@ public class AppController {
 
 
         @RequestMapping("/exam/start")
-    public String examStart(Model model, Authentication authentication) {
+
+        public String examStart(Model model, Authentication authentication) {
         // System.out.println(authentication.getPrincipal());
         DefaultOidcUser user = (DefaultOidcUser) authentication.getPrincipal();
         //System.out.println("Se ha loggeado: " + user.getPreferredUsername());
@@ -48,7 +49,6 @@ public class AppController {
     }
 
     @PostMapping(value = "/exam/end", consumes = MediaType.APPLICATION_JSON_VALUE)
-    @PreAuthorize("isAuthenticated()")
     public String helloWorld(@RequestBody String body) {
         System.out.println(body);
         return "ok";
