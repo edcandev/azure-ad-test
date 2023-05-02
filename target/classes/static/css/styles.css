@@ -223,5 +223,6 @@ input[type=radio] {
 }
 
 .sample-warning {
-    color: crimson;
+    padding: 10px;
+    color: white;
 }

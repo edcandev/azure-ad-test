@@ -1706,9 +1706,9 @@ const examJSON = {
                 "pregunta": "“El que no arriesga no gana”...",
                 "imageUrl": "",
                 "tipo": "MULTI",
-                "opciones": ["A) Verdadero","B) Falso"],
+                "opciones": ["A) Falso ","B) Verdadero"],
                 "respuestaUsuario": "",
-                "respuestaCorrecta": "A) Verdadero"
+                "respuestaCorrecta": "B) Verdadero"
             },
             {
                 "apartado": 7,
@@ -2104,6 +2104,7 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
             if(answer.classList.contains('selected')) {
                 setAnswered(true);
                 answer.checked = false;
+                answer.value = "";
 
                 if(answer.value != null) {
                     userAnswers.answers.push(
@@ -2171,7 +2172,7 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
                 return (
                     <div className="pregunta-opcion-abierta-img">
                         <img className="open-image answer selected" src={mapImages(questionNumber)}></img>
-                        <b className="sample-warning">Esta es una pregunta de ejemplo, no afectará la ponderación total</b>
+                        <b className="sample-warning">Esto es una pregunta de ejemplo y no debe ser respondida, de clic en siguiente para continuar respondiendo.</b>
                     </div>
                 )
             case 'MULTI':
