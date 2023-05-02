@@ -396,7 +396,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Hago hasta lo imposible por solucionar los problemas y nadie se entere.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -583,7 +583,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Generalmente hago lo que creo que se espera de mí, en lugar de lo que a mí me gusta.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -594,7 +594,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "No tengo nada que decir.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
@@ -770,7 +770,7 @@ const examJSON = {
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
                 "pregunta": "Las personas me suelen definir como impulsivo.",
                 "imageUrl": "",
-                "tipo": "CLOSED_AD",
+                "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
                 "respuestaUsuario": "",
                 "respuestaCorrecta": ""
