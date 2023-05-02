@@ -26,8 +26,7 @@ public class AuthController {
     @GetMapping("/azuread")
     @ResponseBody
     @PreAuthorize("isAuthenticated()")
-    public void auth(HttpServletResponse response,
-                     @RegisteredOAuth2AuthorizedClient("graph") OAuth2AuthorizedClient graphClient, Authentication authentication
+    public void auth(HttpServletResponse response, Authentication authentication
     ) throws IOException {
 
         //System.out.println(graphClient.getAccessToken().getTokenValue());

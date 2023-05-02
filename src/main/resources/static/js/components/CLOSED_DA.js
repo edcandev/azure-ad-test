@@ -20,7 +20,7 @@ const examJSON = {
                 "apartado": 1,
                 "id": 2,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Me sucede constantemente que las personas me caen mal y no se por que.",
+                "pregunta": "Me sucede constantemente que las personas me caen mal y no se por qué.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -64,7 +64,7 @@ const examJSON = {
                 "apartado": 1,
                 "id": 6,
                 "descripcion": "Instrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa. No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad. Es necesario que todas las afirmaciones cuenten con una respuesta.",
-                "pregunta": "Suelo saber de lado caerá una moneda.",
+                "pregunta": "Suelo saber de qué lado caerá una moneda.",
                 "imageUrl": "",
                 "tipo": "CLOSED_DA",
                 "opciones": [1, 2, 3, 4],
@@ -2007,7 +2007,7 @@ const FinalComponent = () => {
             },
             body: JSON.stringify(userAnswers)
         };
-        fetch('/exam/end', requestOptions)
+        fetch( "https://edicmexicoappback.azurewebsites.net/post/answers", requestOptions)
             .then(response => response.json())
             .then(data => console.log() );
 
@@ -2104,7 +2104,6 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
             if(answer.classList.contains('selected')) {
                 setAnswered(true);
                 answer.checked = false;
-                answer.value = "";
 
                 if(answer.value != null) {
                     userAnswers.answers.push(
@@ -2116,6 +2115,7 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
                         }
                     )
                 }
+                answer.value = "";
                 setAnswered(false);
                 //alert(answer.value)
                 handleChange(e)

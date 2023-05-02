@@ -16,6 +16,8 @@ import java.io.IOException;
 
 
 @Controller
+@CrossOrigin("*")
+
 public class AppController {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
