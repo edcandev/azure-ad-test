@@ -23,13 +23,23 @@ public class AppController {
         response.sendRedirect("/auth/azuread");
     }
 
-
-        @RequestMapping("/exam/home")
-    public String helloWorl(Model model, Authentication authentication) {
-        // System.out.println(authentication.getPrincipal());
+    @RequestMapping("/exam/home")
+    public String examHome(Model model, Authentication authentication) {
         DefaultOidcUser user = (DefaultOidcUser) authentication.getPrincipal();
         System.out.println("Se ha loggeado: " + user.getPreferredUsername());
 
+        model.addAttribute("username",user.getPreferredUsername());
+        model.addAttribute("name",authentication.getName());
+        return "screen_02";
+    }
+
+
+
+        @RequestMapping("/exam/start")
+    public String examStart(Model model, Authentication authentication) {
+        // System.out.println(authentication.getPrincipal());
+        DefaultOidcUser user = (DefaultOidcUser) authentication.getPrincipal();
+        //System.out.println("Se ha loggeado: " + user.getPreferredUsername());
         model.addAttribute("username",user.getPreferredUsername());
         model.addAttribute("name",authentication.getName());
         return "screen_03";

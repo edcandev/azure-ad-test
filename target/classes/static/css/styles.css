@@ -226,3 +226,24 @@ input[type=radio] {
     padding: 10px;
     color: white;
 }
+
+li,p{
+    text-align: justify;
+    font-size: 1.3em;
+}
+.list-container {
+    width: 100%;
+    margin: 2em 0;
+}
+.zoom-link {
+    margin: 50px 0;
+    text-align: justify;
+    font-size: 1.7em;
+}
+
+.instruction-container {
+    margin-top: -4em;
+}
+.info-h2 {
+    font-size: 2em;
+}
