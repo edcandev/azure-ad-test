@@ -19,13 +19,13 @@ import java.io.IOException;
 import java.util.Objects;
 
 @Controller
-@RequestMapping("/auth")
+@RequestMapping("/")
 @CrossOrigin("*")
 public class AuthController {
 
-    @GetMapping("/azuread")
+    @GetMapping("/")
     @ResponseBody
-    @PreAuthorize("isAuthenticated()")
+    @PreAuthorize("hasAuthority('APPROLE_Admin')")
     public void auth(HttpServletResponse response, Authentication authentication
     ) throws IOException {
 
