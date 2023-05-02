@@ -16,7 +16,7 @@
         "id": 2,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me sucede constantemente que las personas me caen mal y no se por que",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -40,7 +40,7 @@
         "id": 5,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Para entender la postura de alguien más es necesario sentir lo que siente.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -48,7 +48,7 @@
         "id": 6,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo saber de lado caerá una moneda.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -56,7 +56,7 @@
         "id": 7,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Cuando estoy en medio de un conflicto lo vivo tan intensamente que me quedo pensando en él a pesar de que ya pasó mucho tiempo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -80,7 +80,7 @@
         "id": 10,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es difícil comunicarme con una persona de mucho dinero.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -88,7 +88,7 @@
         "id": 11,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Creo que colocarse en los zapatos de otro es absurdo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -120,7 +120,7 @@
         "id": 15,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es difícil ponerme en el punto de referencia de dos personas en una discusión, generalmente me inclino por una.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -128,7 +128,7 @@
         "id": 16,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es absurdo y una pérdida de tiempo que las personas digan varias veces lo mismo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -144,7 +144,7 @@
         "id": 18,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Vivo una historia como si estuviera presente en ella.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -152,7 +152,7 @@
         "id": 19,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "El machismo está completamente erradicado.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -184,7 +184,7 @@
         "id": 23,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "No creo poder entender a una persona que roba.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -192,7 +192,7 @@
         "id": 24,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "En un conflicto lo más importante son los hechos en sí y no como lo vivencia cada una de las partes.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -200,7 +200,7 @@
         "id": 25,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Cuando dos personas discuten me es muy incomodo y prefiero retirarme.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -208,7 +208,7 @@
         "id": 26,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo terminar agotado después de lidiar con un conflicto.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -216,7 +216,7 @@
         "id": 27,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo evitar las miradas fijas.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -224,7 +224,7 @@
         "id": 28,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Analizar los errores del pasado solo te hace perder tiempo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -256,7 +256,7 @@
         "id": 32,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es difícil saber qué decir para que las personas se tranquilicen.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -264,7 +264,7 @@
         "id": 33,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Tengo buen olfato para detectar problemas y alejarme antes que exploten.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -272,7 +272,7 @@
         "id": 34,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Ir al psicólogo es absurdo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -288,7 +288,7 @@
         "id": 36,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Hago hasta lo imposible por solucionar los problemas y nadie se entere.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -296,7 +296,7 @@
         "id": 37,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Si un vendedor hizo un gran esfuerzo para mostrarme un producto que no me convence del todo, es difícil para mí decirle que no.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -304,7 +304,7 @@
         "id": 38,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me identifico con personas que trabajan muy duro pero que no consiguen sus objetivos.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -320,7 +320,7 @@
         "id": 40,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Evito intentar cosas nuevas.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -328,7 +328,7 @@
         "id": 41,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelen atormentarme los errores de mi vida.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -336,7 +336,7 @@
         "id": 42,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Después de hacer algo importante y que vale la pena, trato de que los demás lo sepan.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -344,7 +344,7 @@
         "id": 43,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Si tuviera que hacer una lista de mis virtudes y defectos, la de defectos sería más larga.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -352,7 +352,7 @@
         "id": 44,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me gustaría sentir más respeto hacia mi mismo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -360,7 +360,7 @@
         "id": 45,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es difícil decir que no.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -368,7 +368,7 @@
         "id": 46,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Necesito sentir éxito al iniciar algo nuevo o no continúo haciéndolo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -376,7 +376,7 @@
         "id": 47,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Prefiero evitar platicar con personas que no conocía previamente.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -384,7 +384,7 @@
         "id": 48,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Cuando alguien me felicita, no sé qué responder.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -392,7 +392,7 @@
         "id": 49,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Si el comentario de un familiar me es molesto prefiero evitar que se de cuenta que me afectó.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -408,7 +408,7 @@
         "id": 51,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Evito herir los sentimientos de otras personas, incluso si me siento ofendido.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -424,7 +424,7 @@
         "id": 53,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Generalmente hago lo que creo que se espera de mí, en lugar de lo que a mí me gusta.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -432,7 +432,7 @@
         "id": 54,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "No tengo nada que decir.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -440,7 +440,7 @@
         "id": 55,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Solo voy a reuniones o fiestas si conozco a alguien que también asistirá.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -448,7 +448,7 @@
         "id": 56,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Prefiero evitar hablarles a personas muy atractivas.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -456,7 +456,7 @@
         "id": 57,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me da vergüenza devolver un producto a la tienda.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -472,7 +472,7 @@
         "id": 59,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "A veces incluso pequeñas dificultades pueden llegar a preocuparme.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -480,7 +480,7 @@
         "id": 60,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Mi estado de ánimo depende de la interacción con otras personas.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -488,7 +488,7 @@
         "id": 61,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es muy molesto si me interrumpen cuando estoy trabajando.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -496,7 +496,7 @@
         "id": 62,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "La gente en general suele ser muy irritante.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -512,7 +512,7 @@
         "id": 64,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "A menudo me siento nervioso.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -520,7 +520,7 @@
         "id": 65,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Mi humor pasa por altibajos frecuentes.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -528,7 +528,7 @@
         "id": 66,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Creo que los plazos fijos son innecesarios.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -536,7 +536,7 @@
         "id": 67,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "No soporto que alguien me contradiga.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -544,7 +544,7 @@
         "id": 68,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo sufrir de dolor de cabeza o insomnio a causa de mi trabajo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -560,7 +560,7 @@
         "id": 70,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Las personas me suelen definir como impulsivo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -576,7 +576,7 @@
         "id": 72,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me suele ser difícil elegir entre varias opciones.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -584,7 +584,7 @@
         "id": 73,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo experimentar varios estados de ánimo en un solo día.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -600,7 +600,7 @@
         "id": 75,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo sentirme al límite.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -608,7 +608,7 @@
         "id": 76,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me desanimo con facilidad.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -624,7 +624,7 @@
         "id": 78,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo comer cuando siento preocupación.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -632,7 +632,7 @@
         "id": 79,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me preocupa que mi trabajo me esté endureciendo emocionalmente.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -640,7 +640,7 @@
         "id": 80,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Mi día se arruina cuando algo no ocurre como yo quiero.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -648,7 +648,7 @@
         "id": 81,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me define la palabra impaciente.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -672,7 +672,7 @@
         "id": 84,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me paralizo en situaciones de peligro.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -688,7 +688,7 @@
         "id": 86,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo decir que si llego a las reuniones, pero al final no llegó o canceló de último momento.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -704,7 +704,7 @@
         "id": 88,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es difícil cortar la plática cuando ya me tengo que ir.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -712,7 +712,7 @@
         "id": 89,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es penoso cobrar el dinero que me deben.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -720,7 +720,7 @@
         "id": 90,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Prefiero hablar poco o seguir la corriente cuando desconozco de un tema.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -744,7 +744,7 @@
         "id": 93,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Creo que hablar de sentimientos es una pérdida de tiempo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -752,7 +752,7 @@
         "id": 94,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Son inútiles y desagradables las críticas constructivas.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -760,7 +760,7 @@
         "id": 95,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es difícil demostrar cariño y agradecimiento.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -776,7 +776,7 @@
         "id": 97,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Creo que la gente se aprovecha de mí con frecuencia",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -784,7 +784,7 @@
         "id": 98,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Cuando platico omito los detalles que no me son convenientes.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -792,7 +792,7 @@
         "id": 99,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me apena expresar mis dudas o preguntas a figuras de autoridad.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -800,7 +800,7 @@
         "id": 100,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es complicado negarme a prestar dinero.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -808,7 +808,7 @@
         "id": 101,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Si pienso que algún comentario mío ha ofendido a alguien, optó por cambiar el tema o retirarme.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -816,7 +816,7 @@
         "id": 102,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo decir que estoy de acuerdo solo por no discutir.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -832,7 +832,7 @@
         "id": 104,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es muy complicado decirle a mi jefe que no tiene la razón.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -840,7 +840,7 @@
         "id": 105,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "No tengo ningún miedo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -856,7 +856,7 @@
         "id": 107,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Prefiero tratar los problemas o desacuerdos cuando son muchos que de a poco.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -872,7 +872,7 @@
         "id": 109,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me disgusta que me corrijan.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -880,7 +880,7 @@
         "id": 110,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es difícil pedir que me aclaren un tema cuando no estoy entendiendo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -888,7 +888,7 @@
         "id": 111,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es difícil pedir disculpas.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -928,7 +928,7 @@
         "id": 116,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Si las personas no pueden o no quieren hacer algo, pues ni modo, es su problema.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -936,7 +936,7 @@
         "id": 117,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es muy difícil admitir cuando me he equivocado.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -952,7 +952,7 @@
         "id": 119,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Si das tienes que recibir lo mismo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -960,7 +960,7 @@
         "id": 120,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Suelo pensar que las demás personas no me entienden.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -968,7 +968,7 @@
         "id": 121,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Colocarse en los zapatos de otros es imposible.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -984,7 +984,7 @@
         "id": 123,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Le doy la razón a las demás personas con tal de no discutir.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -1000,7 +1000,7 @@
         "id": 125,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Creo que todo tiene un orden en esta vida, y todos debemos seguirlo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -1008,7 +1008,7 @@
         "id": 126,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Es imposible encontrar soluciones que satisfagan a todos.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -1024,7 +1024,7 @@
         "id": 128,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Las cosas son como son y a quién no le guste ni modo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
@@ -1032,7 +1032,7 @@
         "id": 129,
         "descripcion": "Intrucciones: A continuación hay una lista de afirmaciones, seleccione la opción que le describa.No hay respuestas correctas o equivocadas por lo que es fundamental contestar con sinceridad.Es necesario que todas las afirmaciones cuenten con una respuesta.IMPORTANTE:  La escala puede aparecer de 'Totalmente en desacuerdo'  a  'Totalmente de acuerdo' o a la INVERSA.",
         "pregunta": "Me es incómodo intervenir cuando existe un desacuerdo.",
-        "tipo": "CLOSED_AD",
+        "tipo": "CLOSED_DA",
         "opciones": [1,2,3,4]
       },
       {
