@@ -72,7 +72,11 @@ const FinalComponent = () => {
             },
             body: JSON.stringify(userAnswers)
         };
-        fetch('/exam/end', requestOptions)
+
+        
+        apiURL = 'examen-api.azurewebsites.net/post/answers';
+        
+        fetch(apiURL, requestOptions)
             .then(response => response.json())
             .then(data => console.log(data) );
 
