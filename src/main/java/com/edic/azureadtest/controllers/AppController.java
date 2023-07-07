@@ -21,7 +21,7 @@ public class AppController {
         response.sendRedirect("/auth/azuread");
     }*/
 
-    @RequestMapping("/exam/home")
+    @RequestMapping({"/exam/home","/"})
     public String examHome(Model model/*, Authentication authentication*/) {
 //        DefaultOidcUser user = (DefaultOidcUser) authentication.getPrincipal();
 //        System.out.println("Se ha loggeado: " + user.getPreferredUsername());
