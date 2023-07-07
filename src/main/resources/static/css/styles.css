@@ -8,10 +8,11 @@
     padding: 10px 16px;
     height:150px;
     line-height: 60px;
-    background: #023059;
+    background: #024059;
     color: #f1f1f1;
-    font-size:35px;
+    font-size:40px;
     text-align: center;
+
 }
 /* Page content */
 .content {
@@ -148,13 +149,13 @@ input[type=radio] {
     line-height: 2.5vh;
     margin: 0 auto;
     margin-bottom: 2em;
-    background-color: #49A671;
+    background-color: #F27405;
     padding: 1em;
     border-radius: 25px;
     color: white;
 }
 .siguiente_container:hover {
-    background-color: #1e613b;
+    background-color: #95511a;
 
 }
 
@@ -242,8 +243,17 @@ li,p{
 }
 
 .instruction-container {
-    margin-top: -4em;
+    margin-top: -6em;
 }
 .info-h2 {
     font-size: 2em;
+    margin-bottom: 2em;
 }
+
+.header-logo {
+    position: absolute;
+
+    width: 100px;
+    right: 20px;
+    top: 20px;
+    filter: invert(100%) sepia(0%) saturate(7448%) hue-rotate(47deg) brightness(112%) contrast(114%);}

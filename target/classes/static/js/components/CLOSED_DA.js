@@ -1,5 +1,5 @@
 const userAnswers = { "answers": [] };
-
+/*
 const examJSON = {
     "examen": {
         "acumulador": 0,
@@ -1724,269 +1724,59 @@ const examJSON = {
         ]
     }
 }
-
-
-/*
-const examJSON = {
-    examen: {
-        preguntas: [
-        {
-            "apartado": 6,
-            "id": 134,
-            "descripcion": "Selecciona la categoría de palabras a la que corresponde la siguiente lista.",
-            "pregunta": "Tú - Él - Ella - Ustedes - Nosotras ",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["Adjetivos calificativos","Sustantivos","Pronombres","Preposiciones","Adverbios"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "Pronombres"
-        },
-        {
-            "apartado": 6,
-            "id": 135,
-            "descripcion": "Selecciona la categoría de palabras a la que corresponde la siguiente lista.",
-            "pregunta": "Rojo - Azul - Verde - Morado - Amarillo ",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["Colores","Medios de transporte","Dias de la semana","Animales","Deportes"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "Colores"
-        },
-        {
-            "apartado": 6,
-            "id": 136,
-            "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
-            "pregunta": "(CADENA DE LETRAS MAYÚSCULAS SIN ESPACIOS)",
-            "imageUrl": "images/A6-R3.png",
-            "tipo": "OPEN",
-            "opciones": [],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "EBFDACG"
-        },
-        {
-            "apartado": 6,
-            "id": 137,
-            "descripcion": "Selecciona la categoría de palabras a la que corresponde la siguiente lista.",
-            "pregunta": "Juan - Puerta - Comedor - Rocío - Coche ",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["Adjetivos calificativos","Sustantivos","Pronombres","Preposiciones","Adverbios"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "Sustantivos"
-        },
-        {
-            "apartado": 6,
-            "id": 138,
-            "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
-            "pregunta": "(CADENA DE LETAS MAYÚSCULAS SIN ESPACIOS)",
-            "imageUrl": "images/A6-R5.png",
-            "tipo": "OPEN",
-            "opciones": [],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "ECDAB"
-        },
-        {
-            "apartado": 6,
-            "id": 139,
-            "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
-            "pregunta": "(CADENA DE LETAS MAYÚSCULAS SIN ESPACIOS)",
-            "imageUrl": "images/A6-R6.png",
-            "tipo": "OPEN",
-            "opciones": [],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "BAFECD"
-        },
-        {
-            "apartado": 6,
-            "id": 140,
-            "descripcion": "Coloca la letra que complete la siguiente secuencia. Da click en el recuadro blanco para empezar a escribir",
-            "pregunta": "C, L, L, Q, C, L, S, _.",
-            "imageUrl": "",
-            "tipo": "OPEN",
-            "opciones": [],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "S"
-        },
-        {
-            "apartado": 6,
-            "id": 141,
-            "descripcion": "Selecciona la categoría de palabras a la que corresponde la siguiente lista.",
-            "pregunta": "Rojo - Grande - Dulce - Raro - Barato ",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["Adjetivos calificativos","Sustantivos","Pronombres","Preposiciones","Adverbios"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "Adjettivos calificativos"
-        },
-        {
-            "apartado": 6,
-            "id": 142,
-            "descripcion": "Coloca el número que completen las siguientes secuencias numéricas. Da click en el recuadro blanco para empezar a escribir",
-            "pregunta": "76, 56, 78, 44, 33 77, 56, 71, 42, 33 75, 57, 77, 41, 33  _5, 56, 79, 44, 39 ",
-            "imageUrl": "",
-            "tipo": "OPEN",
-            "opciones": [],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": 7
-        },
-        {
-            "apartado": 6,
-            "id": 143,
-            "descripcion": "Coloca en orden la siguiente secuencia de imágenes. Da click en el recuadro blanco para empezar a escribir",
-            "pregunta": "(CADENA DE LETAS MAYÚSCULAS SIN ESPACIOS)",
-            "imageUrl": "images/A6-R10.png",
-            "tipo": "OPEN",
-            "opciones": [],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "BA"
-        },
-        {
-            "apartado": 6,
-            "id": 144,
-            "descripcion": "Escribe los números que completen las siguientes secuencias numéricas. Da click en el recuadro blanco para empezar a escribir",
-            "pregunta": "65, 58, __, 47, 43, 40, 38 ",
-            "imageUrl": "",
-            "tipo": "OPEN",
-            "opciones": [],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": 52
-        },
-        {
-            "apartado": 7,
-            "id": 145,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Para mi arreglo diario   A) Opto por algo más cotidiano      B) Trato de romper los estándares",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "B"
-        },
-        {
-            "apartado": 7,
-            "id": 146,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Los convencionalismos      A) Me aburren      B) Orientan y tranquilizan",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "A"
-        },
-        {
-            "apartado": 7,
-            "id": 147,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Si estás leyendo una noticia en una página de internet, y el siguiente fragmento no carga      A) Esperas a que cargue y si no lo hace sigues con tus demás pendientes      B) Buscas en otra página la información que te falto por leer",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "B"
-        },
-        {
-            "apartado": 7,
-            "id": 148,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Mi conocimiento es más limitado a ciertas áreas, trato de estar enfocado siempre.      A) Verdadero      B) Falso",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "B"
-        },
-        {
-            "apartado": 7,
-            "id": 149,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Cuando tengo que resolver un problema      A) Opto por la opción habitual      B) Propongo alguna alternativa distinta",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "B"
-        },
-        {
-            "apartado": 7,
-            "id": 150,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "El conocimiento que adquieres en un área es imposible se pueda aplicar a otra      A) Falso      B) Verdadero",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "A"
-        },
-        {
-            "apartado": 7,
-            "id": 151,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Si alguien me plantea un proyecto o negocio nuevo      A) Se me ocurren muchas ideas al respecto      B) Realizó un análisis exhaustivo al respecto",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "A"
-        },
-        {
-            "apartado": 7,
-            "id": 152,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Yo creo que cuando invitas a alguien a salir      A) La opción habitual es la mejor opción      B) Ser diferentes es la mejor opción",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "B"
-        },
-        {
-            "apartado": 7,
-            "id": 153,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Las cosas deben hacerse      A) Según lo establecido      B) Adaptándose a cada caso",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "B"
-        },
-        {
-            "apartado": 7,
-            "id": 154,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Para mi oficina o lugar de trabajo yo prefiero      A) Optar por lo habitual      B) Que refleje mi personalidad",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "B"
-        },
-        {
-            "apartado": 7,
-            "id": 155,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "“El que no arriesga no gana”     A) Verdadero     B) Falso",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "A"
-        },
-        {
-            "apartado": 7,
-            "id": 156,
-            "descripcion": "Instrucciones: Selecciona la afirmación que te describa ",
-            "pregunta": "Cuando me encomiendan trabajar en un proyecto nuevo     A) Me baso en proyectos ya establecidos     B) Intento meter algún toque original",
-            "imageUrl": "",
-            "tipo": "MULTI",
-            "opciones": ["A","B"],
-            "respuestaUsuario": "",
-            "respuestaCorrecta": "B"
-        }
-    ]
-    }
-}
 */
+const examJSON = {
+    "examen": {
+        "acumulador": 0,
+        "no_pregs": 5,
+        "preguntas": [
+            {
+                "apartado": 1,
+                "id": 1,
+                "descripcion": "Instrucciones: Seleccione la opción correcta.",
+                "pregunta": "¿Cuándo fue promulgada la LPI (La Ley de la Propiedad Industrial)?",
+                "imageUrl": "",
+                "tipo": "MULTI",
+                "opciones": ["1988","1999","1995","1991"],
+                "respuestaUsuario": "",
+                "respuestaCorrecta": "1991"
+            },
+            {
+                "apartado": 1,
+                "id": 2,
+                "descripcion": "Instrucciones: Seleccione la opción correcta.",
+                "pregunta": "¿Qué es lo que protege la (LPI)?",
+                "imageUrl": "",
+                "tipo": "MULTI",
+                "opciones": [
+                    "La LPI protege las invenciones, que incluyen patentes y modelos de utilidad.",
+                    "Protege las marcas, diseños industriales, denominaciones de origen.",
+                    "Protege secretos industriales y conocimientos técnicos.",
+                    "Todas las anteriores."
+                ],
+                "respuestaUsuario": "",
+                "respuestaCorrecta": "Todas las anteriores."
+            },
+            {
+                "apartado": 1,
+                "id": 3,
+                "descripcion": "Instrucciones: Seleccione la opción correcta.",
+                "pregunta": "¿Cúal es la duración de la patente?",
+                "imageUrl": "",
+                "tipo": "MULTI",
+                "opciones": [
+                    "5 años.",
+                    "10 años.",
+                    "20 años.",
+                    "16 años."
+                ],
+                "respuestaUsuario": "",
+                "respuestaCorrecta": "20 años."
+            },
+            ]
+    }
+};
+
 const FinalComponent = () => {
 
     const { useState } = React;
@@ -2194,7 +1984,6 @@ const QuestionComponent = ({change, description, type, question, questionNumber,
                 <h3>
                     Pregunta { questionNumber }
                 </h3>
-                <img className="info_img" src="../../images/Logo.jpeg" alt=""/>
             </div>
             <h3 className="descripcion_container">{description}</h3>
             <div className="pregunta_container">
